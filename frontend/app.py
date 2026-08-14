@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 import json
 
 # ==================== CONFIG ====================
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://credit-card-fraud-detection-yyq3.onrender.com"
 
 st.set_page_config(
     page_title="Fraud Detection System",
