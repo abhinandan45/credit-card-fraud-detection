@@ -22,7 +22,7 @@ app.add_middleware(
     allow_headers=["*"]
 )
 
-model = joblib.load('models/fraud_model.pkl')
+model = joblib.load('models/fraud_model_xgb_final.pkl')
 scaler = joblib.load('models/scaler.pkl')
 
 with open('data/samples.json', 'r') as f:
