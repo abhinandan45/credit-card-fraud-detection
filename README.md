@@ -17,8 +17,8 @@ Detect fraudulent credit card transactions from highly imbalanced dataset (0.17%
 - **Precision:** 0.87
 
 ## 🚀 Live Demo
-- **Frontend:** [Link]
-- **API Docs:** [Link]
+- **Frontend:** https://credit-card-fraud-detection-a45.streamlit.app
+- **API Docs:** https://credit-card-fraud-detection-yyq3.onrender.com
 
 ## 🛠️ How to Run
 
