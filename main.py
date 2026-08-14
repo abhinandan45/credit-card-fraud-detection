@@ -118,10 +118,10 @@ def model_info():
         },
         "performance": {
             "f1_score": 0.85,
-            "recall": 0.83,
-            "precision": 0.87,
-            "false_negatives": 17,
-            "false_positives": 12
+            "recall": 0.88,
+            "precision": 0.69,
+            "false_negatives": 12,
+            "false_positives": 38
         },
         "techniques_used": [
             "scale_pos_weight for imbalance",
